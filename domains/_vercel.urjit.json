@@ -1,11 +1,12 @@
 {
-  "owner": {
-    "username": "urjitupadhya",
-    "email": "gm4175urjitupadhyay@gmail.com"
-  },
-  "records": {
-    "TXT": [
-      "vc-domain-verify=www.urjit.is-a.dev,2483d9672d32253c49a9"
-    ]
-  }
+    "owner": {
+        "username": "urjitupadhya",
+        "email": "gm4175urjitupadhyay@gmail.com"
+    },
+    "description": "Urjit Upadhyay — Flutter & MERN Developer Portfolio",
+    "repo": "https://github.com/urjitupadhya/Urjit_Upadhyay_Portfolio_UPDATED",
+    "records": {
+        "CNAME": "cname.vercel-dns.com",
+        "www": "cname.vercel-dns.com"
+    }
 }
